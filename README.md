@@ -4,7 +4,7 @@
 # Socket Programming
 
 ## Summary
-* Build the network between Client, AWS, Server A, and Server B using socket programming. 
+* Build a network between Client, AWS, Server A, and Server B using socket programming. 
 * Between Client and AWS, they communicate with each other by TCP, they send and receive the result of the shortest path and delay from the map and the source which client input on the terminal. 
 * Between Servers and AWS, they communicate with each other by UDP, they send and receive the client input, and the result of the shortest path from server A using Dijkstra's algorithm, and the calculation of the delay from server B. 
 * AWS has a role to get the client input and send the proper information to each server, and then get the results from each servers, and send the results back to the client.
