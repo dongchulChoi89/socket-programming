@@ -1,7 +1,7 @@
 
 
 
-# Socket Programming
+# Network Simulation
 
 ## Summary
 * Build a network between Client, AWS, Server A, and Server B using socket programming. 
